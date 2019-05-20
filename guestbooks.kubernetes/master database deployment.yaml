@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dba-master
+  labels:
+    app: dba-master
+    tier: backend
+
+
+spec:
+  selector:
+    matchLabels:
+      app: dba-master
+      tier: backend
+  replicas: 2
+
+  template:
+      metadata:
+        name: dba-master
+        labels:
+          app: dba-master
+          tier: backend
+      spec:
+        containers:
+          - name: dbamaster
+            image: docker pull redis
+            ports:
+              - containerPort: 80
