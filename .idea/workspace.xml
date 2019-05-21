@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860def47-66f6-44ac-8cc4-2833a55a882c" name="Default Changelist" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/guestbook/guestbookdeployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/guestbookdeployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestbook/guestbookservice.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/guestbookservice.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestbook/redisdeployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/redisdeployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestbook/redisservice.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/redisservice.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="860def47-66f6-44ac-8cc4-2833a55a882c" name="Default Changelist" comment="Initial Commit" />
     <list id="e4fabeeb-201d-4f7f-83a2-6d0d3bbae9bb" name="Revert: Initial Commit" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +164,7 @@
       <workItem from="1558368837728" duration="98000" />
       <workItem from="1558369084356" duration="8482000" />
       <workItem from="1558398338427" duration="5894000" />
-      <workItem from="1558472219816" duration="2446000" />
+      <workItem from="1558472219816" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1558396090502</created>
@@ -273,7 +268,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18739000" />
+    <option name="totallyTimeSpent" value="18836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="691" extended-state="0" />
