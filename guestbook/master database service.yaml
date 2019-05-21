@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: dba-master
   labels:
-    app: dba-service
+    app: dba-master
     tier: backend
 spec:
   ports:
