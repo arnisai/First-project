@@ -22,7 +22,7 @@ spec:
           tier: backend
       spec:
         containers:
-          - name: dbaslave
+          - name: dba-slave
             image: docker pull redis
             ports:
               - containerPort: 80
