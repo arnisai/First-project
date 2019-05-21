@@ -23,6 +23,6 @@ spec:
       spec:
         containers:
           - name: dba-slave
-            image: docker pull redis
+            image: redis
             ports:
               - containerPort: 80

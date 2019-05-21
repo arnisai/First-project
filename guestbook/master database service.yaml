@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: dba-service
+  name: dba-master
   labels:
     app: dba-service
     tier: backend

@@ -23,6 +23,6 @@ spec:
       spec:
         containers:
           - name: dbamaster
-            image: docker pull redis
+            image: redis
             ports:
               - containerPort: 80
