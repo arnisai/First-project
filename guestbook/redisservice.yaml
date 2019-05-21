@@ -5,6 +5,8 @@ metadata:
   labels:
     name: redis
     app: guestbook
+    tier: backend
+
 spec:
    ports:
    - port: 6379
@@ -12,3 +14,4 @@ spec:
    selector:
      name: redis-pod
      app: guestbook
+     tier: backend

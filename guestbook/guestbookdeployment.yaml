@@ -10,13 +10,15 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      name: guestbook
+      name: guestbook-deploy
+      tier: frontend
   template:
     metadata:
       name: guestbook-app-pod
       labels:
-        app: guestbook
         name: guestbook-app-pod
+        app: guestbook
+        tier: frontend
 
 
     spec:

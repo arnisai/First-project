@@ -5,12 +5,13 @@ metadata:
   labels:
     name: guestbook-service
     app: guestbook
+    tier: frontend
 spec:
-  type: LoadBalancer
   ports:
   - port: 80
-    targetPort: 80
-    name: http
+
   selector:
-    app: guestbook
     name: guestbook-app-pod
+    app: guestbook
+    tier: frontend
+

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="860def47-66f6-44ac-8cc4-2833a55a882c" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/guestbook/guestbookdeployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/guestbookdeployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guestbook/guestbookservice.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/guestbookservice.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guestbook/redisdeployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/redisdeployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guestbook/redisservice.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook/redisservice.yaml" afterDir="false" />
+    </list>
+    <list id="e4fabeeb-201d-4f7f-83a2-6d0d3bbae9bb" name="Revert: Initial Commit" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guestbook/guestbookdeployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guestbook/guestbookservice.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guestbook/redisdeployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guestbook/redisservice.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/guestbook</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="/usr/local/bin/git" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pod.definition.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/pod.definition.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/guestbook deployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/guestbook service.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/Database deployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/master database service.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/slave database deployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbooks.kubernetes/slave database service.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/master database deployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/slave database deployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/slave database service.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/master database service.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/guestbook deployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/guestbook service.yaml" />
+        <option value="$PROJECT_DIR$/guestbook2/guestbookpod.yaml" />
+        <option value="$PROJECT_DIR$/guestbook2/guestbookservice.yaml" />
+        <option value="$PROJECT_DIR$/guestbook2/redisdeployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook2/redisservice.yaml" />
+        <option value="$PROJECT_DIR$/guestbook2/guestbookdeployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/guestbookservice.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/guestbookdeployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/redisdeployment.yaml" />
+        <option value="$PROJECT_DIR$/guestbook/redisservice.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="691" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="guestbook" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/guestbooks.kubernetes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="860def47-66f6-44ac-8cc4-2833a55a882c" name="Default Changelist" comment="" />
+      <changelist id="e4fabeeb-201d-4f7f-83a2-6d0d3bbae9bb" name="Revert: Initial Commit" comment="" />
+      <created>1558133421909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558133421909</updated>
+      <workItem from="1558133425394" duration="1810000" />
+      <workItem from="1558368274421" duration="9000" />
+      <workItem from="1558368837728" duration="98000" />
+      <workItem from="1558369084356" duration="8482000" />
+      <workItem from="1558398338427" duration="5894000" />
+      <workItem from="1558472219816" duration="2446000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1558396090502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558396090502</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit 3cdd435e">
+      <created>1558396426111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558396426111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1558397046112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558397046112</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1558397074139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558397074139</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1558397824702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558397824702</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1558457333694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558457333694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit">
+      <created>1558458373380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558458373380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit">
+      <created>1558458939061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558458939061</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit">
+      <created>1558459053888</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558459053888</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1558470127729</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558470127729</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial Commit">
+      <created>1558470180607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558470180607</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial Commit">
+      <created>1558472314985</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558472314986</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial Commit">
+      <created>1558472554307</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558472554307</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial Commit">
+      <created>1558473263730</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558473263730</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18739000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1260" height="691" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26929393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" sideWeight="0.49917898" weight="0.32888147" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49835795" weight="0.32888147" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500821" side_tool="true" weight="0.32888147" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49835795" weight="0.32888147" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49917898" weight="0.32888147" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit 3cdd435e" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/guestbooks.kubernetes/guestbook deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbooks.kubernetes/guestbook service.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbooks.kubernetes/master database service.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbooks.kubernetes/slave database deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbooks.kubernetes/slave database service.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbooks.kubernetes/master database deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/git.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="336" column="16" lean-forward="true" selection-start-line="336" selection-start-column="16" selection-end-line="336" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestbook/slave database service.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook/master database service.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook/slave database deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook2/guestbookservice.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook2/redisdeployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook2/redisservice.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook/guestbook deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook/guestbook service.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook/master database deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/guestbook2/guestbookdeployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/Initial_commit.patch" />
+    <entry file="file://$PROJECT_DIR$/guestbook/guestbookservice.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestbook/guestbookdeployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestbook/redisservice.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestbook/redisdeployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
