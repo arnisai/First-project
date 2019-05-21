@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: guestbook-deployment
+  name: guestbook.deployment
   labels:
      tier: frontend
      app: guestbook
@@ -15,7 +15,7 @@ spec:
 
   template:
     metadata:
-      name: guestbook-deployment
+      name: guestbook.deployment
       labels:
         app: guestbook
         tier: frontend
